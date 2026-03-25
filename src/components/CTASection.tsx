@@ -5,7 +5,7 @@ import { ArrowRight } from "lucide-react";
 const CTASection = () => {
   return (
     <section className="relative py-24">
-      <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-primary/5 to-transparent" />
+      <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-[hsl(275_70%_58%/0.08)] via-[hsl(185_72%_55%/0.04)] to-transparent" />
 
       <div className="container mx-auto px-6">
         <motion.div
