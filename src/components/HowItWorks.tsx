@@ -25,7 +25,7 @@ const steps = [
 const HowItWorks = () => {
   return (
     <section id="how-it-works" className="relative py-24">
-      <div className="pointer-events-none absolute bottom-0 left-0 h-[400px] w-[400px] rounded-full bg-glow/3 blur-[120px]" />
+      <div className="pointer-events-none absolute bottom-0 left-0 h-[400px] w-[400px] rounded-full bg-[hsl(275_70%_58%/0.05)] blur-[120px]" />
 
       <div className="container mx-auto px-6">
         <motion.div

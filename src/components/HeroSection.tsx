@@ -7,8 +7,8 @@ const HeroSection = () => {
   return (
     <section className="relative overflow-hidden pt-32 pb-20">
       {/* Glow effects */}
-      <div className="pointer-events-none absolute top-0 left-1/2 -translate-x-1/2 h-[600px] w-[800px] rounded-full bg-glow/5 blur-[120px]" />
-      <div className="pointer-events-none absolute top-20 right-0 h-[400px] w-[400px] rounded-full bg-glow/3 blur-[100px]" />
+      <div className="pointer-events-none absolute top-0 left-1/4 h-[600px] w-[600px] rounded-full bg-[hsl(185_72%_55%/0.08)] blur-[120px]" />
+      <div className="pointer-events-none absolute top-20 right-1/4 h-[500px] w-[500px] rounded-full bg-[hsl(275_70%_58%/0.08)] blur-[120px]" />
 
       <div className="container mx-auto px-6">
         <motion.div
