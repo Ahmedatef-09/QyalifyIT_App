@@ -22,7 +22,7 @@ const CTASection = () => {
           </p>
           <div className="mt-10">
             <Button size="lg" className="group gap-2 px-10 font-body text-base font-semibold shadow-[0_0_40px_-5px_hsl(var(--glow)/0.5)]">
-              Get Started Free
+              Try for Free
               <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </Button>
           </div>
