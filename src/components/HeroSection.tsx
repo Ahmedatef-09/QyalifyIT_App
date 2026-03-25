@@ -19,7 +19,7 @@ const HeroSection = () => {
         >
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-surface px-4 py-1.5">
             <span className="h-2 w-2 rounded-full bg-primary animate-pulse" />
-            <span className="font-body text-xs text-muted-foreground">Now in Public Beta — Free to Start</span>
+            <span className="font-body text-xs text-muted-foreground">AI Qualification Lead</span>
           </div>
 
           <h1 className="font-display text-4xl font-bold leading-tight tracking-tight text-text-bright sm:text-5xl md:text-6xl lg:text-7xl">
