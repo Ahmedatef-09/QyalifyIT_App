@@ -27,7 +27,7 @@ const Navbar = () => {
             Log in
           </Button>
           <Button size="sm" className="font-body font-semibold">
-            Get Started Free
+            Try for Free
           </Button>
         </div>
       </div>
